@@ -31,36 +31,37 @@ public class fx_BlankFragment extends Fragment {
     }
 
     private void initData(){
-        myList.add("亚特兰大老鹰");
-        myList.add("夏洛特黄蜂");
-        myList.add("迈阿密热火");
-        myList.add("奥兰多魔术");
-        myList.add("华盛顿奇才");
-        myList.add("波士顿凯尔特人");
-        myList.add("布鲁克林篮网");
-        myList.add("纽约尼克斯");
-        myList.add("费城76人");
-        myList.add("多伦多猛龙");
-        myList.add("芝加哥公牛");
-        myList.add("克里夫兰骑士");
-        myList.add("底特律活塞");
-        myList.add("印第安纳步行者");
-        myList.add("密尔沃基雄鹿");
-        myList.add("达拉斯独行侠");
-        myList.add("休斯顿火箭");
-        myList.add("孟菲斯灰熊");
-        myList.add("新奥尔良鹈鹕");
-        myList.add("圣安东尼奥马刺");
-        myList.add("丹佛掘金");
-        myList.add("明尼苏达森林狼");
-        myList.add("俄克拉荷马城雷霆");
-        myList.add("波特兰开拓者");
-        myList.add("犹他爵士");
-        myList.add("金州勇士");
-        myList.add("洛杉矶快船");
-        myList.add("洛杉矶湖人");
-        myList.add("菲尼克斯太阳");
-        myList.add("萨克拉门托国王");
+        myList.add("沃尔玛");
+        myList.add("沙特阿美公司");
+        myList.add("国家电网有限公司");
+        myList.add("亚马逊");
+        myList.add("中国石油天然气集团有限公司");
+        myList.add("中国石油化工集团有限公司");
+        myList.add("埃克森美孚");
+        myList.add("苹果公司");
+        myList.add("壳牌公司");
+        myList.add("联合健康集团");
+        myList.add("CVS Health公司");
+        myList.add("托克集团");
+        myList.add("中国建筑集团有限公司");
+        myList.add("伯克希尔－哈撒韦公司");
+        myList.add("大众公司");
+        myList.add("Uniper公司");
+        myList.add("Alphabet公司");
+        myList.add("麦克森公司");
+        myList.add("丰田汽车公司");
+        myList.add("道达尔能源公司");
+        myList.add("嘉能可");
+        myList.add("英国石油公司");
+        myList.add("雪佛龙");
+        myList.add("美源伯根公司");
+        myList.add("三星电子");
+        myList.add("开市客");
+        myList.add("鸿海精密工业股份有限公司");
+        myList.add("中国工商银行股份有限公司");
+        myList.add("中国建设银行股份有限公司");
+        myList.add("微软");
+
 
     }
 
